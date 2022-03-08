@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Minh Luu
-- 👀 I’m interested in Software Developer and Machine Learning
-- 🌱 I’m currently learning to be a better Software Developer as well as improving my Machine Learning knowledge.
+- 👋 Hi, I’m Nhat Minh, Luu.
+- 👀 I’m interested in Software Developer.
+- 🌱 I’m currently learning to be a better Software Developer.
 - 💞️ I’m looking to collaborate on anything related to Web Development at the moment.
 - 📫 Reach me at nluu@ualberta.ca
 
