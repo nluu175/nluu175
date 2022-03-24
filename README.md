@@ -77,7 +77,7 @@
 ---
 ## 📈 Github Statistics
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 10px">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nluu175&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nluu175&show_icons=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nluu175&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nluu175&show_icons=true" />
 </div>
