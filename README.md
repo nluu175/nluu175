@@ -45,9 +45,9 @@
         <tr>
             <!-- FrontEnd -->
             <td>
-               <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
                <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
                <img src="https://img.shields.io/badge/Vue.js-grey?style=for-the-badge&logo=vue.js" />
+               <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
                <img src="https://img.shields.io/badge/Material%20UI-63C9CB?style=for-the-badge&logo=materialui&logoColor=white" />
             </td>
             <!-- BackEnd -->
