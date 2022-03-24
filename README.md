@@ -76,7 +76,7 @@
 
 ---
 ## 📈 Github Statistics
-<div style="display: flex; justify-content: center; align-items: flex-end; gap: 10px">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nluu175&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api?username=nluu175&show_icons=true" />
 </div>
