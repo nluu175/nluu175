@@ -4,7 +4,7 @@
 
 <!-- Contacts -->
 <br />
-<p align="center>
+<p align="center">
     <a href="mailto:nluu@ualberta.ca">
         <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
