@@ -12,13 +12,13 @@
 
 
 <div align="center" width="200"><h2>Hi World! My name is Minh Luu!</h2></div>
-<p>Hey there 👋,</p>
+<p>Hey there 👋 ,</p>
 
 <p>Welcome to my Github Page!</p>
 
-<p>About my self, I am currently attending University of Alberta as a student in Specialization Computer Science program 🧑🏻‍💻. </p>
+<p>About my self, I am currently attending University of Alberta as a student in Specialization Computer Science program 🧑🏻‍💻 . </p>
 
-<p>I expect to graduate in May 2023 🧑🏻‍🎓.</p>
+<p>I expect to graduate in May 2023 🧑🏻‍🎓 .</p>
 
 <p>I have a huge passion for programming in general and I am pursuing a career in Software Engineering.</p>
 
@@ -26,7 +26,7 @@
 ## 📗 My Projects
 <p>Currently, you can view all of my projects in the pin tab.</p>
 
-<p>I will update all of my favourite projects on this page soon. Promise 😎.</p>
+<p>I will update all of my favourite projects on this page soon. Promise 😎 .</p>
 
 
 
@@ -76,7 +76,7 @@
 
 ---
 ## 📈 Github Statistics
-<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 10px">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 10px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nluu175&show_icons=true" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nluu175&show_icons=true" />
