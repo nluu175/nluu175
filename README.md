@@ -11,7 +11,7 @@
 </p>
 
 
-<div align="center" width="200"><h2>Hi World! My name is Minh Luu!</h2></div>
+<div align="center" width="200"><h2>Hi! My name isMinh Luu!</h2></div>
 <p>Hey there 👋 ,</p>
 
 <p>Welcome to my Github Page!</p>
