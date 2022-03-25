@@ -20,7 +20,7 @@
 
 <p>I expect to graduate in May 2023 🧑🏻‍🎓 .</p>
 
-<p>I have a huge passion for programming in general and I am pursuing a career in Software Engineering.</p>
+<p>I have a huge passion for programming in general and I am pursuing a career in Software Engineering. I also actively work on many side projects and regularly contribute to Github.</p>
 
 ---
 ## 📗 My Projects
