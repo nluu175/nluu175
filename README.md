@@ -5,12 +5,8 @@
 <!-- Contacts -->
 <br />
 <p align="center">
-    <a href="mailto:nluu@ualberta.ca">
-        <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/nhat-minh-luu-2a0777117/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+    <a href="mailto:nluu@ualberta.ca"><img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/nhat-minh-luu-2a0777117/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <div align="center" width="200"><h2>My name is Minh</h2></div>
