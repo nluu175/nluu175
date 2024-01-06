@@ -8,8 +8,10 @@
     <a href="mailto:nluu@ualberta.ca">
         <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+    <a href="https://www.linkedin.com/in/nhat-minh-luu-2a0777117/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
 </p>
-
 
 <div align="center" width="200"><h2>Hi! My name is Minh Luu!</h2></div>
 <p> Hey there 👋 ,</p>
@@ -35,10 +37,6 @@
 ---
 ## My Projects
 <p> Currently, you can view all of my projects in the pin tab.</p>
-
----
-## Get in Touch
-<p> You can find me on <a href="https://www.linkedin.com/in/nhat-minh-luu-2a0777117/>">LinkedIn</a> </p>
 
 ---
 ## 🛠 Technologies and Tools
