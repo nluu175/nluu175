@@ -16,11 +16,11 @@
 
 <p> Welcome to my Github Page!</p>
 
-<p> About my self, I have recently graduated from the University of Alberta in December 2023 with a major in Computer Science 🧑🏻‍💻 . </p>
+<p> About my self, I have recently graduated from the University of Alberta in December 2023 with a major in Computer Science 🧑🏻‍💻 and I am actively looking for a Software Developer postion in Canada.</p>
 
-<p> I have a huge passion for programming in general and I am pursuing a career in Software Engineer/Developer. </p>
+<p> I have a huge passion for programming in general and I am pursuing a career in Software Engineer/Developer.</p>
 
-<p> I have some experience for the Software Developer position from my past internships. </p>
+<p> I have some experience for the Software Developer position from my past internships.</p>
 
 <p> I also actively work on many side projects and regularly contribute to Github.</p>
 
