@@ -12,23 +12,33 @@
 
 
 <div align="center" width="200"><h2>Hi! My name is Minh Luu!</h2></div>
-<p>Hey there 👋 ,</p>
+<p> Hey there 👋 ,</p>
 
-<p>Welcome to my Github Page!</p>
+<p> Welcome to my Github Page!</p>
 
-<p>About my self, I am currently attending University of Alberta as a student in Specialization Computer Science program 🧑🏻‍💻 . </p>
+<p> About my self, I have recently graduated from the University of Alberta in December 2023 with a major in Computer Science 🧑🏻‍💻 . </p>
 
-<p>I expect to graduate in May 2023 🧑🏻‍🎓 .</p>
+<p> I have a huge passion for programming in general and I am pursuing a career in Software Engineer/Developer. </p>
 
-<p>I have a huge passion for programming in general and I am pursuing a career in Software Engineering. I also actively work on many side projects and regularly contribute to Github.</p>
+<p> I have some experience for the Software Developer position from my past internships. </p>
+
+<p> I also actively work on many side projects and regularly contribute to Github.</p>
+
+---
+## What I bring to the table
+<p> 🚀 I thrive on diving deep into Software Development, constantly exploring new methodologies, and leveraging my skills.</p>
+
+<p> I'm always up for the challenge and eager to collaborate, learn, and grow alongside fellow developers and tech enthusiasts.</p>
+
+<p> I have a strong background in Math and Algorithm that hopefully will help improving my programming skills.</p>
 
 ---
 ## 📗 My Projects
-<p>Currently, you can view all of my projects in the pin tab.</p>
+<p> Currently, you can view all of my projects in the pin tab.</p>
 
-<p>I will update all of my favourite projects on this page soon. Promise 😎 .</p>
-
-
+---
+## Get in Touch
+<p> You can find me on <a href="[https://www.w3schools.com](https://www.linkedin.com/in/nhat-minh-luu-2a0777117/)">LinkedIn</a> </p>
 
 ---
 ## 🛠 Technologies and Tools
