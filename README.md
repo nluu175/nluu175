@@ -33,12 +33,12 @@
 <p> I have a strong background in Math and Algorithm that hopefully will help improving my programming skills.</p>
 
 ---
-## 📗 My Projects
+## My Projects
 <p> Currently, you can view all of my projects in the pin tab.</p>
 
 ---
 ## Get in Touch
-<p> You can find me on <a href="[https://www.w3schools.com](https://www.linkedin.com/in/nhat-minh-luu-2a0777117/)">LinkedIn</a> </p>
+<p> You can find me on <a href="https://www.linkedin.com/in/nhat-minh-luu-2a0777117/>">LinkedIn</a> </p>
 
 ---
 ## 🛠 Technologies and Tools
@@ -83,10 +83,3 @@
         </tr>
     </tbody>
 </table>
-
----
-## 📈 Github Statistics
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px">
-<img src="https://github-readme-stats.vercel.app/api?username=nluu175&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nluu175&show_icons=true&layout=compact" />
-</div>
