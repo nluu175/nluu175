@@ -12,9 +12,7 @@
 <div align="center" width="200"><h2>My name is Minh</h2></div>
 <p> Hey there 👋 ,</p>
 
-<p> Welcome to my Github Page!</p>
-
-<p> About my self, I have recently graduated from the University of Alberta in December 2023 with a major in Computer Science 🧑🏻‍💻 and I am actively looking for a Software Developer postion in Canada.</p>
+<p> I am Minh - an international in Canada from Vietnam. I have recently graduated from the University of Alberta in December 2023 with a major in Computer Science 🧑🏻‍💻 and I am actively looking for a Software Developer postion in Canada.</p>
 
 <p> I have a huge passion for programming in general and I am pursuing a career in Software Engineer/Developer.</p>
 
