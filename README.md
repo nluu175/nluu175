@@ -22,7 +22,10 @@ const about = {
     },
     currentFocus: "I'm currently working on my AWS Certified Developer - Associate, building apps and getting a job as a Software Developer",
     hobbies: ["music", "foods", "video games"],
-    currentProject: {GameBacklog: "I build this to help clearing my game backlog.", url: "https://github.com/nluu175/backlog-server"}
+    currentProject: {
+        GameBacklog: "I build this to help clearing my game backlog.",
+        url: "https://github.com/nluu175/backlog-server"
+    }
 };
 ```
 
