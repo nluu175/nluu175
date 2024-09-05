@@ -31,3 +31,39 @@ const about = {
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little introduction about my pinned projects ... 
 
+```js
+const projects = [
+    {
+        name: "Meds To Go",
+        description: "Meds To Go is a project I and my team built during the HackEd 2023 hackathon to help provide people with a simple way to order and keep track of their prescription medications  from the comfort of their own home.",
+        tech: ["ReactJs", "React BootStrap", "ExpressJs", "MongoDB"]
+    },
+    {
+        name: "BookIt",
+        description: "BookIt is a usable, interactive, mobile application with refined object-oriented design that is developed by following scrum practices.",
+        tech: ["Java", "Android Studio"]
+    },
+    {
+        name: "Virtual Gym",
+        description: "Virtual Gym is a dashboard application that is built to help with displaying the statistics from the AR game Virtual Gym.",
+        tech: ["React", "MaterialUI", "Django", "PostgreSQL"]
+    },
+    {
+        name: "Compiler Gym",
+        description: "Compiler Gym is an open-source library from Facebook Research. The library provides a reinforcement learning environments for compiler and program optimization task. I had a chance to contribute to maintaining the project and generating some datasets for the training purpose.",
+        tech: ["Python"]
+    },
+    {
+        name: "Distributed",
+        description: "Distributed is a social networking app designed to connect users across multiple servers. It allows for the creation and sharing of posts, enabling seamless interactions with friends on different servers.",
+        tech: ["React", "Material UI", "Django", "Sqlite"]
+    },
+    {
+        name: "Backlog",
+        description: "Backlog is game backlog app designed with the purpose to help gamers keeping track of their  game backlog.",
+        tech: ["React", "ASP.NET", "SQL Server"]
+    },
+
+
+]
+```
