@@ -20,9 +20,9 @@ const about = {
         devOps: ["AWS", "Docker"],
         databases: ["MongoDB", "Firebase", "MySQL", "SQLite", "PostgreSQL"],
     },
-    currentFocus: "I'm currently working on my AWS Certified Developer - Associate and getting a job as a Software Developer",
+    currentFocus: "I'm currently working on my AWS Certified Developer - Associate, getting a job as a Software Developer",
     hobbies: ["music", "foods", "video games"],
-    currentProject: "GameBacklog: I build this to help clearing my game backlog."
+    currentProject: {GameBacklog: "I build this to help clearing my game backlog.", url: "https://github.com/nluu175/backlog-server"}
 };
 ```
 
