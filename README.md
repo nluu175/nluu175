@@ -12,15 +12,15 @@
 ```js
 const about = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C#", "Java"],
+    programmingLanguages: ["Javascript", "Python", "C#", "Java"],
     talkToMeAbout: ["web dev", "tech"],
     technologies: {
-        backEnd: ["Node", "Express.js", "Django", "FastAPI", "Flask"],
+        backEnd: ["Node", "Express.js", "Django", "FastAPI", "ASP.NET"],
         frontEnd: ["React", "Next.js"],
         devOps: ["AWS", "Docker"],
         databases: ["MongoDB", "Firebase", "MySQL", "SQLite", "PostgreSQL"],
     },
-    currentFocus: "I'm currently working on my AWS Certified Developer - Associate, getting a job as a Software Developer",
+    currentFocus: "I'm currently working on my AWS Certified Developer - Associate, building apps and getting a job as a Software Developer",
     hobbies: ["music", "foods", "video games"],
     currentProject: {GameBacklog: "I build this to help clearing my game backlog.", url: "https://github.com/nluu175/backlog-server"}
 };
