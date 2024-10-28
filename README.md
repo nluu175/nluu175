@@ -9,25 +9,11 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me ...  
 
-```js
-const about = {
-    pronouns: "He" | "Him",
-    programmingLanguages: ["Javascript", "Python", "C#", "Java"],
-    talkToMeAbout: ["web dev", "tech"],
-    technologies: {
-        backEnd: ["Node", "Express.js", "Django", "FastAPI", "ASP.NET"],
-        frontEnd: ["React", "Next.js"],
-        devOps: ["AWS", "Docker"],
-        databases: ["MongoDB", "Firebase", "MySQL", "SQLite", "PostgreSQL"],
-    },
-    currentFocus: "I'm currently working on my AWS Certified Developer - Associate and building side projects.",
-    hobbies: ["music", "foods", "video games"],
-    currentProject: {
-        name: "Game Backlog",
-        description: "I built this to effectively manage my games backlog.",
-        url: "https://github.com/nluu175/backlog-server"
-    }
-};
-```
+I'm a Software Developer and proud `University of Alberta Computer Science alumni`. My expertise spans multiple programming languages including `Javascript`, `Python`, and `C#`, with a particular passion for fullstack software development and all things tech.
 
+At the moment, I am working on my personal projects, working to get my cloud certificate, and contributing to `PyTorch`.
+
+I also do LeetCode regularly.
+
+Checkout my [personal website](https://nluu.vercel.app/) to learn more about me (I'm planning to write some blogs soon as well).
 ```
