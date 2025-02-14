@@ -4,7 +4,7 @@
     <em>Software Developer | University of Alberta Alumni | Computer Science</em>
 </p>
 
-<a href="mailto:nluu@ualberta.ca"><img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:lnminh175@gmail.com"><img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
 <a href="https://www.linkedin.com/in/ln-minh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me ...  
