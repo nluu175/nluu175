@@ -19,4 +19,4 @@
 
 I'm a Software Developer and proud `University of Alberta Computer Science alumni`. My expertise spans multiple programming languages including `Javascript`, `Python`, and `C#`, with a particular passion for fullstack software development and all things tech.
 
-Checkout my [personal website](https://nluu.vercel.app/) to learn more about me (I'm planning to write some blogs soon as well).
+Checkout my [personal website](https://nluu.vercel.app/) to learn more about me.
