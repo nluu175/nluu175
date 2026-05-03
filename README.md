@@ -17,6 +17,5 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"/> `~/matthew $` about me
 
-I'm a Software Developer and proud `University of Alberta Computer Science alumni`. My expertise spans multiple programming languages including `Javascript`, `Python`, and `C#`, with a particular passion for fullstack software development and all things tech.
+I'm a Software Developer and proud `University of Alberta Computer Science alumni`.
 
-Checkout my [personal website](https://nluu.vercel.app/) to learn more about me.
