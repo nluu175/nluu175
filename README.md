@@ -17,5 +17,5 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"/> `~/matthew $` about me
 
-I'm a Software Developer and proud `University of Alberta Computer Science alumni`.
+I'm a Software Developer and proud University of Alberta Computer Science alumni.
 
