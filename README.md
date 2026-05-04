@@ -13,8 +13,6 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"/> `~/matthew $` about me
 
 I'm a Software Developer and proud University of Alberta Computer Science alumni.
