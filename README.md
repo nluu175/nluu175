@@ -1,19 +1,13 @@
 <div align="center">
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"/>
 
-# Hello World, I'm Matthew!
+# Hi to anyone ever stops by., I'm Matthew!
 
 *Software Developer · University of Alberta CS Alumni · Computer Science*
 
-[![Mail](https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:lnminh175@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ln-minh/)
-
 </div>
 
----
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"/> `~/matthew $` about me
 
-Hi to anyone ever stops by.
 
